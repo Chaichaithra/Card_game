@@ -1,3 +1,3 @@
 # Card_game
 
-![Screenshot](Algorithm.pdf)
+https://docs.google.com/viewer?url=${}
